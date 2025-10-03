@@ -1,0 +1,91 @@
+2025-10-03 09:42:17,544 - INFO - Logging initialized at: /mnt/c/Users/Tyler/Documents/IS601/module5_is601/logs/calculator.log
+2025-10-03 09:42:17,550 - INFO - No history file found - starting with empty history
+2025-10-03 09:42:17,550 - INFO - Calculator initialized with configuration
+2025-10-03 09:42:17,550 - INFO - Added observer: LoggingObserver
+2025-10-03 09:42:17,550 - INFO - Added observer: AutoSaveObserver
+2025-10-03 09:42:42,270 - INFO - Set operation: Addition
+2025-10-03 09:42:42,270 - INFO - Calculation performed: Addition (2, 2) = 4
+2025-10-03 09:42:42,301 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 09:42:42,302 - INFO - History auto-saved
+2025-10-03 09:42:44,675 - INFO - Set operation: Power
+2025-10-03 09:42:44,676 - INFO - Calculation performed: Power (2, 2) = 4
+2025-10-03 09:42:44,720 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 09:42:44,720 - INFO - History auto-saved
+2025-10-03 09:42:49,447 - INFO - Set operation: Multiplication
+2025-10-03 09:42:49,447 - INFO - Calculation performed: Multiplication (2, 2) = 4
+2025-10-03 09:42:49,472 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 09:42:49,472 - INFO - History auto-saved
+2025-10-03 09:48:08,201 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:18:19,716 - INFO - Logging initialized at: /mnt/c/Users/Tyler/Documents/IS601/module5_is601/logs/calculator.log
+2025-10-03 10:18:19,766 - INFO - Loaded 3 calculations from history
+2025-10-03 10:18:19,767 - INFO - Calculator initialized with configuration
+2025-10-03 10:18:19,767 - INFO - Added observer: LoggingObserver
+2025-10-03 10:18:19,767 - INFO - Added observer: AutoSaveObserver
+2025-10-03 10:18:26,344 - INFO - Set operation: Addition
+2025-10-03 10:18:26,345 - INFO - Calculation performed: Addition (1, 1) = 2
+2025-10-03 10:18:26,376 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:18:26,376 - INFO - History auto-saved
+2025-10-03 10:18:30,131 - INFO - Set operation: Addition
+2025-10-03 10:18:30,132 - INFO - Calculation performed: Addition (1, 1) = 2
+2025-10-03 10:18:30,154 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:18:30,154 - INFO - History auto-saved
+2025-10-03 10:18:35,670 - INFO - Set operation: Addition
+2025-10-03 10:18:35,671 - INFO - Calculation performed: Addition (1, 1) = 2
+2025-10-03 10:18:35,697 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:18:35,697 - INFO - History auto-saved
+2025-10-03 10:19:12,441 - INFO - Loaded 6 calculations from history
+2025-10-03 10:19:20,927 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:19:23,280 - INFO - History cleared
+2025-10-03 10:19:24,675 - INFO - Loaded 6 calculations from history
+2025-10-03 10:21:49,289 - INFO - Set operation: Addition
+2025-10-03 10:21:49,290 - INFO - Calculation performed: Addition (1, 1) = 2
+2025-10-03 10:21:49,316 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:21:49,316 - INFO - History auto-saved
+2025-10-03 10:21:55,668 - INFO - Set operation: Subtraction
+2025-10-03 10:21:55,669 - INFO - Calculation performed: Subtraction (1, 1) = 0
+2025-10-03 10:21:55,687 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:21:55,687 - INFO - History auto-saved
+2025-10-03 10:22:02,886 - INFO - Set operation: Multiplication
+2025-10-03 10:22:02,887 - INFO - Calculation performed: Multiplication (1, 1) = 1
+2025-10-03 10:22:02,912 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:22:02,912 - INFO - History auto-saved
+2025-10-03 10:22:05,801 - INFO - Set operation: Division
+2025-10-03 10:22:05,802 - INFO - Calculation performed: Division (1, 1) = 1
+2025-10-03 10:22:05,823 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:22:05,823 - INFO - History auto-saved
+2025-10-03 10:22:07,997 - INFO - Set operation: Power
+2025-10-03 10:22:07,998 - INFO - Calculation performed: Power (1, 1) = 1
+2025-10-03 10:22:08,025 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:22:08,026 - INFO - History auto-saved
+2025-10-03 10:22:14,296 - INFO - Loaded 11 calculations from history
+2025-10-03 10:22:29,570 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:22:30,814 - INFO - History cleared
+2025-10-03 10:22:33,827 - INFO - Set operation: Addition
+2025-10-03 10:22:33,828 - INFO - Calculation performed: Addition (1, 2) = 3
+2025-10-03 10:22:33,852 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:22:33,852 - INFO - History auto-saved
+2025-10-03 10:22:36,554 - INFO - Loaded 1 calculations from history
+2025-10-03 10:22:42,911 - INFO - History cleared
+2025-10-03 10:23:17,095 - INFO - Set operation: Root
+2025-10-03 10:23:17,096 - INFO - Calculation performed: Root (1, 1) = 1
+2025-10-03 10:23:17,117 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:23:17,117 - INFO - History auto-saved
+2025-10-03 10:23:21,109 - INFO - Set operation: Root
+2025-10-03 10:23:21,109 - INFO - Calculation performed: Root (12, 2) = 3.46410161513775438635320824687369167804718017578125
+2025-10-03 10:23:21,128 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:23:21,129 - INFO - History auto-saved
+2025-10-03 10:23:32,434 - INFO - Set operation: Addition
+2025-10-03 10:23:32,435 - ERROR - Validation error: Invalid number format: 1/2
+2025-10-03 10:23:35,888 - INFO - Set operation: Addition
+2025-10-03 10:23:35,889 - INFO - Calculation performed: Addition (1, 0.5) = 1.5
+2025-10-03 10:23:35,909 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:23:35,910 - INFO - History auto-saved
+2025-10-03 10:23:41,513 - INFO - Set operation: Addition
+2025-10-03 10:23:41,513 - INFO - Calculation performed: Addition (1, -2) = -1
+2025-10-03 10:23:41,537 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:23:41,537 - INFO - History auto-saved
+2025-10-03 10:23:45,625 - INFO - Set operation: Addition
+2025-10-03 10:23:45,625 - INFO - Calculation performed: Addition (1, -1) = 0
+2025-10-03 10:23:45,645 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv
+2025-10-03 10:23:45,645 - INFO - History auto-saved
+2025-10-03 10:39:18,374 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/history/calculator_history.csv

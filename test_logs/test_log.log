@@ -1,0 +1,20 @@
+2025-10-03 10:39:55,731 - INFO - Logging initialized at: /mnt/c/Users/Tyler/Documents/IS601/module5_is601/test_logs/test_log.log
+2025-10-03 10:39:55,735 - INFO - No history file found - starting with empty history
+2025-10-03 10:39:55,736 - INFO - Calculator initialized with configuration
+2025-10-03 10:39:55,736 - INFO - Added observer: LoggingObserver
+2025-10-03 10:39:55,736 - INFO - Added observer: AutoSaveObserver
+2025-10-03 10:39:55,752 - INFO - Logging initialized at: /mnt/c/Users/Tyler/Documents/IS601/module5_is601/test_logs/test_log.log
+2025-10-03 10:39:55,757 - INFO - No history file found - starting with empty history
+2025-10-03 10:39:55,757 - INFO - Calculator initialized with configuration
+2025-10-03 10:39:55,758 - INFO - Added observer: LoggingObserver
+2025-10-03 10:39:55,759 - INFO - Added observer: AutoSaveObserver
+2025-10-03 10:39:55,787 - INFO - Empty history saved
+2025-10-03 10:39:55,800 - INFO - Logging initialized at: /mnt/c/Users/Tyler/Documents/IS601/module5_is601/test_logs/test_log.log
+2025-10-03 10:39:55,816 - INFO - Loaded empty history file
+2025-10-03 10:39:55,816 - INFO - Calculator initialized with configuration
+2025-10-03 10:39:55,817 - INFO - Added observer: LoggingObserver
+2025-10-03 10:39:55,817 - INFO - Added observer: AutoSaveObserver
+2025-10-03 10:39:55,817 - INFO - Set operation: Addition
+2025-10-03 10:39:55,817 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-03 10:39:55,830 - INFO - History saved successfully to /mnt/c/Users/Tyler/Documents/IS601/module5_is601/test_history/test_history.csv
+2025-10-03 10:39:55,912 - INFO - History auto-saved
